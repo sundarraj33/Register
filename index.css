@@ -26,3 +26,16 @@ label{
     margin: 5px;
     padding: 10px;
 }
+input{
+    border: 1px solid black;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+input:focus {
+    outline: none;
+    border: 1px solid #c0392b;
+    
+}
+/* input:focus{
+    /* border: 0px; */
+     *
